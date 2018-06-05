@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eedd8891-2e62-4f8c-906b-084777eee267" name="Default" comment="d">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/respo/address-dev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/respo/user-dev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/respo/zuul-dev.properties" />
+    <list default="true" id="eedd8891-2e62-4f8c-906b-084777eee267" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/respo/config-client-dev.properties" afterPath="$PROJECT_DIR$/respo/config-client-dev.properties" />
     </list>
@@ -21,7 +18,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="config-client-dev.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config-client-dev.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/respo/config-client-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -41,7 +38,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zuul-dev.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zuul-dev.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/respo/zuul-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -66,6 +63,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="MiloDu90 &lt;milodu90@163.com&gt;" />
         <option value="milodu" />
       </list>
     </option>
@@ -101,9 +99,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/respo/address-dev.properties" />
-        <option value="$PROJECT_DIR$/respo/config-client-dev.properties" />
         <option value="$PROJECT_DIR$/respo/user-dev.properties" />
         <option value="$PROJECT_DIR$/respo/zuul-dev.properties" />
+        <option value="$PROJECT_DIR$/respo/config-client-dev.properties" />
       </list>
     </option>
   </component>
@@ -642,12 +640,20 @@
       <updated>1528177802342</updated>
       <workItem from="1528177803866" duration="360000" />
       <workItem from="1528178178651" duration="89000" />
-      <workItem from="1528182512300" duration="143000" />
+      <workItem from="1528182512300" duration="768000" />
     </task>
+    <task id="LOCAL-00001" summary="d">
+      <created>1528182667097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528182667097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="592000" />
+    <option name="totallyTimeSpent" value="1217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
@@ -695,7 +701,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加配置文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加配置文件" />
+    <MESSAGE value="d" />
+    <option name="LAST_COMMIT_MESSAGE" value="d" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -726,14 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/respo/config-client-dev.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/respo/user-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -746,6 +745,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="10" column="67" lean-forward="false" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/respo/config-client-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
